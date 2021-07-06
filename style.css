@@ -59,7 +59,6 @@ p{
     margin-top: 60px;
 
 }
-
 .heading-about-me{
     margin-bottom: 60px;
     font-size: 40px;
@@ -75,7 +74,7 @@ p{
     margin-right: 40px;
     margin-top: 20px;
 }
-.my-recipe-first{
+.my-recipe-first, .customers-review-top{
     text-align: center;
 }
 .my-recipe-first p{
@@ -84,14 +83,15 @@ p{
     padding-left: 30%;
     padding-right: 30%;
 }
-.my-recipe-item-division{
+.my-recipe-item-division, .customers-review-division{
     display: flex;
+    margin-top: 40px;
 }
 .my-recipe-item-division p{
     padding-right: 10%;
 
 }
-.recipe-item-individual{
+.recipe-item-individual, .customers-review-individual{
     box-shadow: 3px 3px 20px 4px #7e7e7e;
     padding: 25px;
     margin-left: 25px;
@@ -101,14 +101,61 @@ p{
 .recipe-item-individual img{
     width: 100%;
 }
-.subscribers-count-section{
-    display: flex;
+.social-insight-section{
     box-shadow: 3px 3px 20px 4px #7e7e7e;
     border-radius: 25px;
     margin-right: 40px;
-    margin-top: 20px;
-    width: 100%;
+    margin-top: 60px;
+    padding: 20px;
+    margin-left: 25px;
 }
-.subscribers-count-individual{
+.social-insight-heading {
+    margin-top: -5px;
+    margin-bottom: 0;
+    font-size: 60px;
+}
+.social-insight-all{
     display: flex;
+}
+
+.social-insight-individual{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: -20px;
+}
+.social-insight-individual img{
+    margin-top: 40px;
+    width: 80%;
+}
+h4{
+    margin-top: -60px;
+}
+.customers-review-section{
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 3%;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    margin-right: 40px;
+}
+.customers-review-individual img{
+    width: 40%;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(44, 44, 44);
+    margin-top: 20px;
+    margin-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 10%;
+}
+.footer p{
+    text-align: center;
+    margin-top: -20px;
+    color: floralwhite;
+}
+.footer span{
+    color:rgb(255, 90, 40);
 }
