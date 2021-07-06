@@ -78,7 +78,7 @@ p{
     background-repeat: no-repeat;
     padding-bottom: 20px;
     padding-top: 5px;
-    margin-top: 20px;
+    margin-top: 5px;
 }
 .my-recipe-first, .customers-review-top{
     text-align: center;
@@ -115,6 +115,7 @@ p{
     padding: 20px;
     margin-left: 20px;
     margin-right: 20px;
+    align-items: center;
     background-image: url(images/shapes/bg-4.jpg);
     background-repeat: no-repeat;
     background-position: cover;
@@ -149,7 +150,7 @@ h4{
 }
 
 .customers-review-section{
-    margin-top: 20px;
+    margin-top: 5px;
     padding-top: 5px;
     padding-bottom: 3%;
     background-image: url(images/shapes/bg-3.jpg);
