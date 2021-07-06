@@ -1,5 +1,5 @@
 body{
-    margin: 20px;
+    margin: 0px;
     padding: 0px;
     font-family: 'STIX Two Math', serif;
 }
@@ -53,9 +53,10 @@ p{
 
 .about-me-section{
     margin-top: 80px;
-    background-image: url(images/shapes/7.png);
+    background-image: url(images/shapes/bg-1.png);
     background-repeat: no-repeat;
     background-position: cover;
+    background-size: 100%;
 }
 .second-Half-Division-About-Me img{
     width: 45%;
@@ -72,11 +73,10 @@ p{
 }
 /*My Recipes Section*/
 .my-recipes-section{
-    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-image: url(images/shapes/bg-2.jpg);
     padding-bottom: 20px;
     padding-top: 5px;
     background-repeat: no-repeat;
-    margin-right: 40px;
     margin-top: 20px;
 }
 .my-recipe-first, .customers-review-top{
@@ -110,10 +110,14 @@ p{
 .social-insight-section{
     box-shadow: 3px 3px 20px 4px #7e7e7e;
     border-radius: 25px;
-    margin-right: 40px;
     margin-top: 60px;
     padding: 20px;
-    margin-left: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-image: url(images/shapes/bg-4.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: 100%;
 }
 .social-insight-heading {
     margin-top: -5px;
@@ -138,7 +142,7 @@ h3{
     margin-top: -5px;
 }
 
-/*Customers Review Section*/
+/*Customers Review Section -  For Bonus Marks*/
 h4{
     margin-top: -60px;
 }
@@ -147,10 +151,9 @@ h4{
     margin-top: 20px;
     padding-top: 5px;
     padding-bottom: 3%;
-    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-image: url(images/shapes/bg-3.jpg);
     background-repeat: no-repeat;
     background-position: cover;
-    margin-right: 40px;
 }
 .customers-review-individual img{
     width: 40%;
@@ -160,7 +163,6 @@ h4{
     text-align: center;
     background-color: rgb(44, 44, 44);
     margin-top: 20px;
-    margin-right: 40px;
     padding-top: 5px;
     padding-bottom: 10%;
 }
