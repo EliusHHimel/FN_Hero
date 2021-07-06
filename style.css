@@ -115,7 +115,6 @@ p{
     padding: 20px;
     margin-left: 20px;
     margin-right: 20px;
-    align-items: center;
     background-image: url(images/shapes/bg-4.jpg);
     background-repeat: no-repeat;
     background-position: cover;
@@ -132,13 +131,13 @@ p{
 
 .social-insight-individual{
     display: flex;
-    margin-left: 100px;
-    margin-right: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: -20px;
 }
 .social-insight-individual img{
     margin-top: 40px;
-    width: 80%;
+    width: 70%;
 }
 h3{
     margin-top: -5px;
