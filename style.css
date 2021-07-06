@@ -101,3 +101,14 @@ p{
 .recipe-item-individual img{
     width: 100%;
 }
+.subscribers-count-section{
+    display: flex;
+    box-shadow: 3px 3px 20px 4px #7e7e7e;
+    border-radius: 25px;
+    margin-right: 40px;
+    margin-top: 20px;
+    width: 100%;
+}
+.subscribers-count-individual{
+    display: flex;
+}
