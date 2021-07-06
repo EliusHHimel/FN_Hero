@@ -67,3 +67,37 @@ p{
 .about-me-description{
     padding-right: 120px;
 }
+.my-recipes-section{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    padding-bottom: 20px;
+    padding-top: 5px;
+    background-repeat: no-repeat;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+.my-recipe-first{
+    text-align: center;
+}
+.my-recipe-first p{
+    text-align: center;
+    margin-top: -30px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.my-recipe-item-division{
+    display: flex;
+}
+.my-recipe-item-division p{
+    padding-right: 10%;
+
+}
+.recipe-item-individual{
+    box-shadow: 3px 3px 20px 4px #7e7e7e;
+    padding: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 25px;
+}
+.recipe-item-individual img{
+    width: 100%;
+}
