@@ -30,10 +30,15 @@ p{
 .second-Half-Division{
     margin-top: -10px;
     margin-left: -12%;
+    background-image: url(images/shapes/unknown.png);
+    background-repeat: no-repeat;
+    background-position: 75% 90%;
+
 }
 .second-Half-Division img{
     width: 90%;
 }
+
 .order-Button{
     text-decoration: none;
     background-image: linear-gradient(#FFC837, #FF8008);;
