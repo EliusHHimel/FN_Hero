@@ -1,6 +1,7 @@
 body{
     margin: 20px;
     padding: 0px;
+    font-family: 'STIX Two Math', serif;
 }
 h1{
     font-size: 60px;
@@ -127,6 +128,9 @@ p{
 .social-insight-individual img{
     margin-top: 40px;
     width: 80%;
+}
+h3{
+    margin-top: -5px;
 }
 h4{
     margin-top: -60px;
