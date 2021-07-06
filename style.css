@@ -131,13 +131,13 @@ p{
 
 .social-insight-individual{
     display: flex;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 100px;
+    margin-right: 50px;
     margin-top: -20px;
 }
 .social-insight-individual img{
     margin-top: 40px;
-    width: 70%;
+    width: 80%;
 }
 h3{
     margin-top: -5px;
