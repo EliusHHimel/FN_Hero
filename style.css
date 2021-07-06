@@ -72,11 +72,12 @@ p{
     padding-right: 120px;
 }
 /*My Recipes Section*/
-.my-recipes-section{
+.my-recipes-section{ 
     background-image: url(images/shapes/bg-2.jpg);
+    background-position: cover;
+    background-repeat: no-repeat;
     padding-bottom: 20px;
     padding-top: 5px;
-    background-repeat: no-repeat;
     margin-top: 20px;
 }
 .my-recipe-first, .customers-review-top{
@@ -110,7 +111,7 @@ p{
 .social-insight-section{
     box-shadow: 3px 3px 20px 4px #7e7e7e;
     border-radius: 25px;
-    margin-top: 60px;
+    margin-top: 30px;
     padding: 20px;
     margin-left: 20px;
     margin-right: 20px;
@@ -168,7 +169,7 @@ h4{
 }
 .footer p{
     text-align: center;
-    margin-top: -20px;
+    margin-top: -30px;
     color: floralwhite;
 }
 .footer span{
