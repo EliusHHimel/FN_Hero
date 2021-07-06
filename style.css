@@ -8,8 +8,9 @@ h1{
 }
 p{
     font-size: 20px;
+    text-align: justify;
 }
-.skip-Diet-Section{
+.skip-Diet-Section, .about-me-section{
     display: flex;
     margin-top: 45px;
 }
@@ -45,4 +46,24 @@ p{
     padding: 15px 50px;
     border-radius: 50px 50px 50px 50px;
     color: white;
+}
+.about-me-section{
+    margin-top: 80px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+.second-Half-Division-About-Me img{
+    width: 45%;
+    margin-left: 45%;
+    margin-top: 60px;
+
+}
+
+.heading-about-me{
+    margin-bottom: 60px;
+    font-size: 40px;
+}
+.about-me-description{
+    padding-right: 120px;
 }
